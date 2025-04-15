@@ -157,18 +157,31 @@ by evil
 
 ## vtuber
 vedal987
+
 anny
+
 cerberVT
+
 toma
+
 camila
+
 filian
+
 KoKoNuts?
+
 Ellie_Minibot
+
 layna
+
 MinikoMew
+
 cweamcat
+
 Aquwa
+
 alex
+
 numi
 
 ## twitter
@@ -189,6 +202,7 @@ https://x.com/NeurosamaAI
 
 ## game
 [Neuro-sama Game Jam 2](https://itch.io/jam/neuro)
+
 [vedal's secret](https://neurosoda.itch.io/vedals-secret)
 
 ## projects
@@ -196,5 +210,6 @@ https://github.com/VedalAI
 
 ## website
 https://neurosama.com/
+
 https://kornineq.github.io/neurosama.com-but-there-is-neurosama-everywhere/
 
